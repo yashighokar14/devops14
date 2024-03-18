@@ -1,4 +1,12 @@
 hi this is dockerfile
 hello docker
 new line add
-hello 
+helloi
+s
+d
+d
+d
+d
+d
+
+d
